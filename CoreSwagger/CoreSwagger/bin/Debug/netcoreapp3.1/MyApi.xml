@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreSwagger</name>
+    </assembly>
+    <members>
+        <member name="M:CoreSwagger.Controllers.ValuesController.loginAccount(System.Object)">
+            <summary>
+            登录
+            </summary>
+            <param name="dy">通过解析操作对象，动态获取参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreSwagger.Controllers.ValuesController.TextToken">
+            <summary>
+            测试一下
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CoreSwagger.Controllers.WeatherForecastController.Get">
+            <summary>
+            提交一个Model实体
+            </summary>
+        </member>
+        <member name="M:CoreSwagger.Controllers.WeatherForecastController.Post">
+            <summary>
+            post请求的源码
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
